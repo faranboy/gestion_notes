@@ -43,15 +43,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# Android Studio
-.idea/
-.gradle/
-/build/
-
-# Local configuration file (e.g. IntelliJ)
-local.properties
-
-# Android specific
-.cxx/
-.externalNativeBuild/
