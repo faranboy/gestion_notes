@@ -43,3 +43,15 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Android Studio-specific files
+local.properties
+key.properties
+.gradle/
+.cxx/
+.externalNativeBuild/
+
+# Flutter-specific files
+.flutter/
+.metadata
+.melos/
